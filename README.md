@@ -7,6 +7,6 @@ Climate-change world bank data is in the climage-change.csv file as it is. All t
 
 GDP of the countries is extracted from economy-and-growth world bank data. Original csv file is more than 25 MB. Thus, this file cannot be uploaded. Please download the economy-and-growth data from https://api.worldbank.org/v2/en/topic/3?downloadformat=csv
 
-Then unzip the files and rename the original csv file to "economy-and-growth.csv" prior to running the program.
+<b> Then unzip the files and rename the original csv file to "economy-and-growth.csv" prior to running the program. <\b>
 
 
